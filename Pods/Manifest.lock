@@ -1,0 +1,13 @@
+PODS:
+  - InterAppCommunication (1.0)
+  - SimpleKeychain (0.4.0)
+
+DEPENDENCIES:
+  - InterAppCommunication
+  - SimpleKeychain
+
+SPEC CHECKSUMS:
+  InterAppCommunication: 3239945b30e9dc5f91ef8be057fbcae4e3398e5c
+  SimpleKeychain: ed7fcbc2a235ad6919a3d2385ed4b44ab866d874
+
+COCOAPODS: 0.38.2
